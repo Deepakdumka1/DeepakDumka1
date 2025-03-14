@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Deepakdumka1](https://github.com/Deepakdumka1)
 
-- 📫 How to reach me **ddumka102@gmail.com**
+- 📫 How to reach me **deepakdumka@duck.com**
 
 - ⚡ Fun fact **I think I am funny**
 
