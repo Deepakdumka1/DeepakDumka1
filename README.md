@@ -20,4 +20,4 @@ I'm currently studying
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/DeepakDumka1/DeepakDumka1/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/DeepakDumka1/DeepakDumka1/blob/output/github-snake.svg)
