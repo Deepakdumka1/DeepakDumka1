@@ -20,4 +20,13 @@ I'm currently studying
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/DeepakDumka1/DeepakDumka1/blob/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img alt="mglsj's GitHub contributions" src="assets/stats-light.svg" />
+</picture>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeepakDumka1/DeepakDumka/snake/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeepakDumka/DeepakDumka/snake/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DeepakDumka/DeepakDumka/snake/github-snake.svg" />
+</picture>
