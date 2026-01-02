@@ -1,6 +1,5 @@
 # 💫 About Me:
-Developer in Day Gamer at Night 🤡
-
+I'm currently studying
 
 
 ## 🌐 Socials:
